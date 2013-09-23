@@ -68,7 +68,7 @@ body{background:#3A424D;}
     margin:auto;
     margin-bottom: 10px;
     clear:both;
-    background-image: url('shelf.png');
+    background-image: url('img/shelf.png');
     background-repeat:no-repeat;
     background-position: center bottom;
 }
